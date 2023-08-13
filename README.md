@@ -1,2 +1,3 @@
 # PHIT-Test Project
- Senior Design, 2022
+
+Personalized Health Intervention Tracker Test (PHIT-Test) for Benign Prostatic Hyperplasia (BPH) is my senior design project for Biomedical Engineering. My two teammates and I aimed to find a way to track intervention efficacy for patients with urological disorder to reduce overly excessive and ineffective use of drugs. We communicated with our client about his need, defined and refined the scope, made prototypes, carried out preliminary and validation tests, and finally came up with our solution: an interactive website, utilizing the Django framework hosted on AWS. This repository is used for showcasing our code and reports for PHIT-Test.
